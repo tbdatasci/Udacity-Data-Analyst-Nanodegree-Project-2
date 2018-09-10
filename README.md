@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tyler's Data Analyst Nanodegree Project 2 at Udacity
 
 You can use the [editor on GitHub](https://github.com/tbdatasci/Udacity-Data-Analyst-Nanodegree-Project-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
